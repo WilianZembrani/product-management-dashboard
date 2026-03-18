@@ -4,8 +4,8 @@
 
 ## Descrição
 
-CRUD completo de produtos usando **React** no frontend e **Node.js + Express + MySQL** no backend.
-Projeto desenvolvido para aprendizado e prática de integração entre front-end e back-end, aplicando conceitos de **API REST** e **full-stack**.
+CRUD completo de gerenciamento de produtos, desenvolvido com **React** no frontend e **Node.js + Express + MySQL** no backend.
+O projeto simula um sistema real de gestão, permitindo criar, listar, atualizar e excluir produtos, com validação de dados e feedback visual para o usuário.
 
 ## Tecnologias
 
